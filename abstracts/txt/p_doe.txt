@@ -1,8 +1,9 @@
 TITLE
-A random abstract title
+Cell lineage dependent chiral flows at the actomyosin cortex drive cellular rearrangement in early development.
 AUTHOR
-J. Doe {1} *
-M. Smith {2, 3}
+Lokesh Pimpale {1} *
+Teije Middelkoop
+Stephan Grill
 AFFSHORT
 Bournemouth University, UK
 AFF
@@ -14,7 +15,4 @@ ICREA Barcelona, Spain
 AFF
 Bernstein Center for Computational Neuroscience, Medical Faculty Mannheim and Heidelberg University, Germany.
 ABS
-On recommend tolerably my belonging or am [1]. Mutual has cannot beauty indeed now sussex merely you. It possible no husbands jennings ye offended packages pleasant he. Remainder recommend engrossed who eat she defective applauded departure joy. Get dissimilar not introduced day her apartments. Fully as taste he mr do smile abode every. Luckily offered article led lasting country minutes nor old. Happen people things oh is oppose up parish effect. Law handsome old outweigh humoured far appetite. Now residence dashwoods she excellent you. Shade being under his bed her. Much read on as draw. Blessing for ignorant exercise any yourself unpacked. Pleasant horrible but confined day end marriage. Eagerness furniture set preserved far recommend. Did even but nor are most gave hope. Secure active living depend son repair day ladies now. Affronting discretion as do is announcing. Now months esteem oppose nearer enable too six. She numerous unlocked you perceive speedily. Affixed offence spirits or ye of offices between. Real on shot it were four an as. Absolute bachelor rendered six nay you juvenile. Vanity entire an chatty to [2]. 
-REFS
-[1] Sanchez-Vives M.V., Massimini M. and Mattia M. (2017). Neuron, 94(5):993-1001.
-[2] Capone C., Rebollo B., Mu{\~n}oz A., Illa X., Del Giudice P., Sanchez-Vives M.V., Mattia M. (2017). Cereb Cortex, 28:1-17.
+Cells need to be positioned correctly during embryogenesis for achieving important processes like body axis formation and organ development. The mechanisms by which cells reposition in the early developing embryo are still not completely understood. Recently, Naganathan et al 2014, showed that the gradient of myosin in the actomyosin cortex generates chiral flows and these flows are important for breaking left-right symmetry in a developing C. elegans embryo. We here show that chiral flows arise in the AB lineage only, and that the presence of these flows correlates with cellular repositioning in the embryo. Using reverse genetics approach and temperature sensitive mutants we demonstrate that cellular rearrangements in the AB lineage are driven by chiral actomyosin flows. Thus, we conclude that chiral actomyosin flows drive cellular rearrangement in early development.
