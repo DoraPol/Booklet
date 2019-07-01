@@ -5,14 +5,8 @@ Lokesh Pimpale {1} *
 Teije Middelkoop
 Stephan Grill
 AFFSHORT
-Bournemouth University, UK
+BIOTEC, TU Dresden
 AFF
-Faculty of Science and Technology, Bournemouth University, UK
-AFF
-Institut d'Investigacions Biom\`{e}diques August Pi i Sunyer (IDIBAPS), Barcelona, Spain
-AFF
-ICREA Barcelona, Spain
-AFF
-Bernstein Center for Computational Neuroscience, Medical Faculty Mannheim and Heidelberg University, Germany.
+(MPI-CBG)
 ABS
 Cells need to be positioned correctly during embryogenesis for achieving important processes like body axis formation and organ development. The mechanisms by which cells reposition in the early developing embryo are still not completely understood. Recently, Naganathan et al 2014, showed that the gradient of myosin in the actomyosin cortex generates chiral flows and these flows are important for breaking left-right symmetry in a developing C. elegans embryo. We here show that chiral flows arise in the AB lineage only, and that the presence of these flows correlates with cellular repositioning in the embryo. Using reverse genetics approach and temperature sensitive mutants we demonstrate that cellular rearrangements in the AB lineage are driven by chiral actomyosin flows. Thus, we conclude that chiral actomyosin flows drive cellular rearrangement in early development.
